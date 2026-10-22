@@ -7,7 +7,7 @@
 
 **An immersive wallpaper gallery built by G.P. Prasanna · `gp_ai_lab`**
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Studio%20Pond-11cbb5?style=for-the-badge&logo=netlify&logoColor=white)](https://waallpapergpailab.netlify.app/)
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Studio%20Pond-11cbb5?style=for-the-badge&logo=netlify&logoColor=white)](https://wallpapergpailab.netlify.app/)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
